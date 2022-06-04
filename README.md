@@ -7,5 +7,5 @@
 <!---
 CL158/CL158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-👋  To everyone who ever reads this, HI my name is Lilly and I'm new to currently willinglooking for all ways to learn from others in this platform please welcome me with open Arms you reach me at clilly158@gmail.com 💌
+👋 HI my name is Lilly and I'm new to coding, currently
+looking for all ways to learn from others in this platform please welcome me with open Arms you reach me at clilly158@gmail.com 💌
